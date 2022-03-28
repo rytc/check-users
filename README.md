@@ -8,7 +8,7 @@ The `check_users.rb` script simply lists out the user names and home directories
 
 Copy the `check_users.rb` script into `/usr/local/bin`
 
-To setup the scripts to run automatically every hour, copy the line in the `crontab` file into `/rtc/crontab` 
+To setup the scripts to run automatically every hour, copy the line in the `crontab` file into `/etc/crontab` 
 
 # Extra scripts
 
